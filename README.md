@@ -159,11 +159,4 @@ nyc-fare-analysis/
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
 
 ---
-
-## 📬 Contact
-
-For questions or collaboration, feel free to reach out.
-
----
-
 ⭐ If you found this project useful, consider giving it a star!
